@@ -1,5 +1,24 @@
 import streamlit as st
 
+
+st.set_page_config(layout="wide")
+
+st.sidebar.header("About")
+st.sidebar.markdown("The Uber data analysis created with streamlit allows to visualize in an interactive way")
+st.sidebar.header("Resources")
+st.sidebar.markdown(
+    """
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Geopy](https://geopy.readthedocs.io/en/stable/)
+- [Folium](https://python-visualization.github.io/folium/latest/)
+
+"""
+)
+
+
 st.title('Data analysis: Uber Rides from :')
 st.write('Welcome to an interactive analysis for an Uber dataset')
 
