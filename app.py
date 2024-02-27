@@ -79,8 +79,9 @@ if user_text:
 
 st.title('Este es un título')
 st.header('Este es un header')
-st.write('Hello, *World!* :sunglaseses:')
+st.write('Hello, *World!* :sunglasses:')
 
 df = load_df()
 
 st.write(df.head())
+
