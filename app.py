@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import datetime as datetime
 import glob
+import altair as alt
 
 st.set_page_config(layout="wide")
 
