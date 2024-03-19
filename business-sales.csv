@@ -1,0 +1,1001 @@
+division,level of education,training level,work experience,salary,sales
+computer hardware,associate's degree,0,4,75650,209271
+office supplies,associate's degree,2,7,96502,394503
+printers,some college,0,2,55359,113345
+printers,associate's degree,1,6,83955,301349
+computer software,some college,1,6,103202,372674
+printers,high school,0,11,91901,374061
+peripherals,some college,1,8,99117,381823
+computer hardware,associate's degree,0,6,92259,279554
+printers,bachelor's degree,0,5,85014,234234
+office supplies,associate's degree,2,6,93448,358216
+printers,some college,2,5,81141,331564
+printers,some college,1,4,72622,272681
+computer software,associate's degree,1,8,117260,416314
+computer hardware,associate's degree,1,4,77509,202179
+printers,associate's degree,2,9,103628,452124
+printers,associate's degree,2,5,79808,318080
+peripherals,associate's degree,2,7,98791,413837
+office supplies,bachelor's degree,2,10,112661,506606
+printers,associate's degree,1,5,82161,278362
+printers,associate's degree,2,10,106717,487169
+peripherals,bachelor's degree,1,1,71305,178849
+computer hardware,associate's degree,1,7,99203,346089
+printers,some college,0,7,81325,291295
+computer software,bachelor's degree,1,13,147168,548459
+office supplies,some college,0,4,71871,189262
+computer software,associate's degree,0,7,106600,322779
+computer software,associate's degree,3,11,131819,568186
+peripherals,some college,2,0,62118,259751
+office supplies,associate's degree,1,8,95815,373199
+computer hardware,some college,1,6,93884,278837
+computer hardware,bachelor's degree,0,6,88381,255230
+printers,some college,2,4,81913,342036
+printers,associate's degree,1,3,76001,234081
+printers,bachelor's degree,2,8,106308,443434
+printers,some college,1,3,64811,192364
+office supplies,some college,0,7,82922,295115
+computer hardware,associate's degree,1,8,97511,385114
+computer hardware,associate's degree,0,8,96465,272282
+computer software,high school,1,3,71634,206335
+printers,bachelor's degree,0,9,95853,358531
+office supplies,associate's degree,1,6,85732,319607
+office supplies,associate's degree,1,7,96821,357285
+office supplies,associate's degree,1,4,78811,273816
+printers,some college,1,12,110335,523354
+printers,high school,1,1,50341,183407
+printers,some college,2,5,80991,364782
+printers,some college,1,8,90317,353789
+office supplies,some college,3,8,107931,532912
+peripherals,some college,2,10,119915,489152
+computer hardware,associate's degree,1,4,86650,291870
+office supplies,high school,1,12,107862,538615
+peripherals,associate's degree,3,11,124585,577756
+office supplies,some college,0,8,89932,315128
+printers,associate's degree,1,9,104742,391765
+peripherals,some college,1,7,86667,366674
+office supplies,some college,1,3,70244,210781
+printers,some college,1,2,63180,213154
+peripherals,associate's degree,1,6,90644,312204
+office supplies,some college,0,4,68116,247018
+computer hardware,some college,2,8,107801,473084
+computer software,high school,0,5,74773,197734
+office supplies,high school,2,5,85184,357052
+printers,bachelor's degree,3,2,87163,261628
+computer hardware,some college,2,2,84417,278637
+office supplies,some college,0,7,84771,298891
+peripherals,associate's degree,1,8,104636,382489
+printers,some college,1,7,84961,319374
+printers,associate's degree,2,2,73245,275245
+office supplies,some college,1,7,88400,314190
+printers,some college,0,9,89481,336365
+peripherals,associate's degree,0,8,97772,327154
+computer hardware,associate's degree,0,4,74652,236521
+office supplies,associate's degree,2,3,70883,254203
+office supplies,high school,2,6,91466,402799
+printers,associate's degree,1,7,92686,314870
+office supplies,some college,1,7,93275,385431
+printers,associate's degree,1,3,73988,236831
+office supplies,associate's degree,2,4,77745,317452
+computer software,some college,1,2,66827,138269
+office supplies,associate's degree,1,3,68941,249406
+computer hardware,some college,2,5,86521,369292
+printers,associate's degree,2,6,88711,387114
+peripherals,some college,0,3,63592,141238
+printers,some college,1,5,71751,265072
+office supplies,bachelor's degree,2,13,126807,565865
+computer software,bachelor's degree,1,6,117247,337609
+computer hardware,some college,0,8,88596,308950
+peripherals,some college,0,6,77809,213028
+peripherals,some college,2,3,83308,305733
+computer hardware,some college,0,6,85533,272722
+peripherals,associate's degree,1,5,97239,337774
+computer hardware,associate's degree,3,6,112173,478757
+printers,some college,0,11,101871,429535
+printers,high school,1,5,76756,337938
+office supplies,some college,1,3,75123,253431
+office supplies,some college,1,7,85620,346556
+peripherals,some college,1,0,59987,145758
+office supplies,bachelor's degree,2,5,92442,340049
+computer software,some college,0,6,89350,280181
+printers,some college,0,9,92889,335580
+computer software,associate's degree,0,6,102729,317090
+computer software,some college,0,6,88904,212249
+printers,some college,1,8,101133,361328
+office supplies,some college,2,6,81241,344687
+printers,high school,1,7,86033,335783
+computer software,some college,1,12,126729,537287
+office supplies,some college,2,1,77416,264157
+computer hardware,some college,0,9,95449,356681
+peripherals,associate's degree,2,7,107168,407912
+printers,some college,2,5,81837,340244
+office supplies,some college,0,3,55341,143353
+peripherals,associate's degree,3,8,107430,472525
+computer hardware,some college,0,3,68027,146872
+peripherals,associate's degree,1,8,100802,392685
+peripherals,some college,2,4,73589,268510
+peripherals,associate's degree,1,5,85352,285098
+peripherals,some college,1,1,61135,171027
+printers,associate's degree,0,3,69039,175529
+office supplies,high school,2,8,99041,426704
+printers,associate's degree,2,2,75956,278515
+computer software,some college,2,4,103403,322142
+office supplies,associate's degree,1,8,96338,358524
+office supplies,high school,2,10,113622,498004
+office supplies,bachelor's degree,0,6,84070,227594
+office supplies,some college,1,4,70215,269943
+printers,some college,0,0,56234,89879
+printers,some college,2,8,100548,417875
+computer hardware,associate's degree,2,7,99036,420359
+printers,bachelor's degree,0,7,94591,274756
+peripherals,bachelor's degree,0,7,90075,320746
+computer hardware,high school,2,3,76301,251648
+computer hardware,associate's degree,1,3,86221,255017
+peripherals,associate's degree,2,2,82981,299108
+printers,some college,1,0,53971,106892
+computer hardware,associate's degree,1,6,99039,318302
+computer hardware,high school,1,3,69727,247609
+computer hardware,associate's degree,3,7,107991,446311
+computer software,bachelor's degree,3,5,113974,435619
+office supplies,some college,1,7,93328,369510
+office supplies,associate's degree,1,5,86778,318259
+printers,some college,1,5,76070,320701
+office supplies,associate's degree,2,4,92726,339873
+computer hardware,some college,2,3,91033,356563
+office supplies,associate's degree,1,2,67670,143332
+computer hardware,associate's degree,1,1,72263,195604
+printers,associate's degree,0,9,98309,337509
+computer software,high school,0,4,80281,232462
+peripherals,some college,0,8,90531,297107
+office supplies,associate's degree,1,9,98475,424750
+office supplies,high school,2,8,99675,475753
+printers,some college,2,0,59766,203105
+computer software,some college,1,8,115603,410173
+office supplies,bachelor's degree,1,10,111056,431734
+computer software,associate's degree,1,4,84849,238490
+computer hardware,associate's degree,2,5,83368,291471
+printers,some college,1,5,76220,243877
+peripherals,some college,2,5,82454,306006
+printers,some college,0,5,67496,209438
+printers,associate's degree,1,3,81266,269044
+printers,associate's degree,0,7,83257,312569
+office supplies,bachelor's degree,0,8,109049,360490
+office supplies,associate's degree,2,0,69639,186581
+computer hardware,associate's degree,2,2,79950,259369
+printers,some college,1,6,80368,301925
+peripherals,associate's degree,0,10,109490,384544
+computer hardware,associate's degree,0,11,103746,387461
+computer hardware,bachelor's degree,2,10,127997,503900
+printers,associate's degree,1,7,102579,382410
+office supplies,high school,2,1,50554,181603
+office supplies,some college,2,7,93858,378827
+printers,associate's degree,1,5,86953,265019
+printers,some college,2,11,110567,519961
+office supplies,some college,1,9,92814,405444
+printers,associate's degree,2,1,69597,219628
+computer software,high school,1,3,94776,303757
+peripherals,associate's degree,0,3,77153,191104
+computer hardware,associate's degree,2,2,87470,277861
+computer hardware,associate's degree,1,4,83447,267093
+printers,some college,0,7,86921,310912
+printers,some college,2,2,72450,297949
+office supplies,associate's degree,0,1,61294,75292
+computer hardware,associate's degree,1,5,84742,296896
+office supplies,associate's degree,1,8,98910,394384
+computer hardware,some college,2,2,71632,286320
+computer software,high school,2,1,65560,185597
+printers,associate's degree,2,7,95107,353998
+printers,high school,2,4,78486,318647
+computer hardware,associate's degree,0,7,86971,278987
+computer hardware,bachelor's degree,1,8,115049,379569
+computer hardware,some college,2,1,67670,216998
+printers,some college,2,6,89054,378644
+office supplies,some college,2,13,121734,617342
+computer software,associate's degree,0,10,113899,359360
+printers,some college,0,9,83269,312686
+office supplies,bachelor's degree,0,1,51984,49905
+peripherals,associate's degree,0,11,116355,406871
+printers,some college,1,9,103845,473064
+office supplies,some college,2,2,62588,241616
+office supplies,associate's degree,0,0,51336,96708
+peripherals,bachelor's degree,2,10,121952,490883
+office supplies,some college,3,7,96519,444594
+computer hardware,some college,1,7,97298,365717
+printers,bachelor's degree,2,6,95485,379395
+computer hardware,some college,0,3,77584,195836
+peripherals,associate's degree,1,3,63944,179438
+printers,high school,0,9,82395,318521
+office supplies,some college,2,7,96104,372485
+peripherals,some college,0,4,64340,203400
+computer hardware,associate's degree,0,1,60891,131196
+office supplies,associate's degree,0,5,77381,223983
+printers,associate's degree,0,4,71221,165903
+computer hardware,bachelor's degree,0,5,90933,273354
+office supplies,bachelor's degree,1,6,87044,305967
+peripherals,high school,1,2,68614,223145
+office supplies,master's degree,2,0,65788,186208
+computer hardware,some college,1,4,68280,196131
+computer hardware,associate's degree,2,3,80603,316028
+computer hardware,associate's degree,0,7,96304,250077
+printers,high school,0,9,92025,375064
+peripherals,bachelor's degree,1,1,64832,188323
+printers,associate's degree,0,4,69577,159216
+printers,some college,3,7,99700,435593
+office supplies,associate's degree,1,9,111300,403001
+printers,some college,1,11,120008,555231
+printers,associate's degree,1,9,96044,362138
+printers,associate's degree,1,5,78062,281865
+computer hardware,some college,3,2,75439,277764
+office supplies,associate's degree,1,11,107707,401076
+peripherals,associate's degree,0,10,103030,355689
+peripherals,some college,2,6,92828,400293
+peripherals,some college,1,6,78432,304321
+printers,some college,0,4,62189,201893
+printers,some college,3,10,110318,563180
+office supplies,bachelor's degree,2,7,105295,415783
+office supplies,associate's degree,3,8,99681,420990
+printers,some college,0,6,73517,275171
+printers,some college,2,5,83982,313030
+office supplies,some college,1,1,62856,183548
+peripherals,associate's degree,1,6,78674,266737
+office supplies,some college,1,11,114659,448519
+peripherals,high school,3,12,115035,548221
+computer software,associate's degree,1,6,98683,264400
+printers,some college,0,7,81315,333147
+printers,bachelor's degree,0,6,84940,257960
+computer software,some college,1,7,98312,339970
+computer hardware,associate's degree,1,5,88622,291531
+office supplies,some college,0,7,74655,266547
+printers,some college,2,7,95634,447349
+office supplies,some college,0,13,106117,419796
+printers,some college,1,5,73972,299723
+printers,some college,2,10,113460,511973
+computer software,some college,0,5,88217,267233
+computer hardware,associate's degree,2,1,70187,246092
+printers,associate's degree,0,12,108696,404299
+peripherals,high school,2,5,87201,373232
+computer software,associate's degree,0,5,90563,275629
+office supplies,high school,1,4,74627,278470
+computer hardware,some college,1,14,136211,542113
+computer hardware,associate's degree,0,2,61932,147831
+peripherals,some college,1,7,86013,314325
+printers,bachelor's degree,0,7,84382,283815
+office supplies,associate's degree,2,8,109630,450253
+computer hardware,associate's degree,1,5,86005,259339
+printers,associate's degree,3,2,72223,302225
+printers,associate's degree,2,6,90655,380597
+office supplies,associate's degree,1,8,98665,319525
+office supplies,some college,0,3,63948,182294
+computer software,bachelor's degree,0,9,119150,404422
+office supplies,associate's degree,1,11,105624,456243
+computer software,some college,3,7,115553,525527
+peripherals,associate's degree,0,7,88091,298838
+office supplies,some college,1,10,107249,472717
+peripherals,some college,1,11,107505,448584
+printers,some college,0,4,62304,166127
+office supplies,some college,0,12,103250,415482
+printers,associate's degree,0,11,106992,415232
+peripherals,associate's degree,1,5,80422,304224
+peripherals,associate's degree,0,10,114045,406593
+office supplies,associate's degree,1,8,100598,395088
+office supplies,bachelor's degree,3,4,88467,343923
+peripherals,some college,1,8,94851,372629
+office supplies,high school,0,7,73080,273227
+peripherals,some college,1,8,100721,407376
+printers,bachelor's degree,2,8,102833,405499
+printers,bachelor's degree,1,12,120386,459905
+computer hardware,some college,1,5,76846,278456
+computer hardware,high school,2,8,95754,447535
+printers,some college,3,7,103018,476451
+office supplies,associate's degree,1,7,82388,292415
+computer software,associate's degree,1,5,103300,269689
+printers,associate's degree,3,8,104009,488826
+peripherals,some college,2,9,106676,526762
+peripherals,associate's degree,1,0,69665,146646
+office supplies,bachelor's degree,1,9,108854,424460
+office supplies,some college,1,6,82481,327762
+office supplies,associate's degree,0,6,80151,264761
+office supplies,some college,1,7,97300,412164
+printers,some college,2,2,70936,262644
+office supplies,high school,1,5,68921,278760
+peripherals,some college,2,7,93415,400627
+computer software,associate's degree,3,1,90561,261975
+peripherals,high school,2,8,93252,449933
+computer hardware,some college,1,8,109499,394988
+office supplies,some college,3,5,97448,463692
+peripherals,associate's degree,3,13,138060,606478
+office supplies,associate's degree,2,7,98512,364231
+computer software,associate's degree,0,6,87395,207972
+computer hardware,some college,1,7,95228,357040
+office supplies,associate's degree,2,8,102672,472353
+peripherals,some college,1,9,109641,434864
+printers,some college,2,4,80412,338869
+printers,some college,1,11,105964,492683
+office supplies,associate's degree,1,8,90873,368730
+printers,high school,3,3,77480,355775
+computer hardware,some college,2,12,127384,553770
+peripherals,associate's degree,1,7,93067,337097
+computer hardware,some college,1,4,83567,226592
+office supplies,associate's degree,0,3,78410,213223
+office supplies,some college,2,5,81316,367848
+peripherals,some college,1,7,92540,346636
+office supplies,high school,0,8,84842,299563
+office supplies,associate's degree,1,9,117939,469388
+office supplies,some college,0,8,87834,243388
+peripherals,associate's degree,0,7,78559,245592
+peripherals,some college,1,2,57885,178853
+printers,some college,2,6,94276,389247
+peripherals,associate's degree,1,10,105125,451251
+computer software,associate's degree,1,2,82059,214156
+peripherals,some college,2,2,65132,230163
+printers,bachelor's degree,2,0,66174,212712
+printers,associate's degree,2,1,66014,230521
+computer hardware,associate's degree,3,10,115715,514725
+computer hardware,some college,1,0,69670,186831
+printers,high school,2,7,95472,384466
+office supplies,some college,2,10,104074,476211
+printers,associate's degree,0,4,72435,138684
+printers,some college,2,1,65437,197670
+computer hardware,associate's degree,2,8,103214,442141
+office supplies,associate's degree,1,4,75632,243285
+peripherals,high school,0,1,41672,76720
+computer hardware,master's degree,2,6,107751,376381
+printers,associate's degree,0,7,89052,298680
+office supplies,associate's degree,2,2,74325,257205
+printers,bachelor's degree,0,11,104053,400530
+printers,some college,0,9,99132,390224
+computer hardware,associate's degree,0,1,50762,43431
+printers,bachelor's degree,3,5,93529,401450
+peripherals,associate's degree,1,11,106879,448787
+computer software,associate's degree,1,5,89935,269351
+computer hardware,high school,0,6,71267,231638
+computer software,some college,3,3,95367,339855
+office supplies,associate's degree,2,8,112393,479880
+computer hardware,high school,0,8,82369,313691
+peripherals,some college,2,1,62989,249890
+office supplies,associate's degree,1,7,93038,310819
+computer software,bachelor's degree,3,7,127780,461149
+printers,high school,2,9,102354,479150
+peripherals,associate's degree,0,10,102583,331606
+printers,associate's degree,1,2,63260,212599
+computer hardware,high school,2,7,90885,376467
+computer hardware,associate's degree,2,11,126523,574502
+computer hardware,associate's degree,2,5,89357,329667
+printers,bachelor's degree,1,5,85458,238263
+office supplies,some college,1,11,103011,470114
+peripherals,some college,0,9,85615,316153
+peripherals,associate's degree,1,6,79685,276852
+computer hardware,some college,1,11,104582,426307
+printers,some college,2,6,87766,371789
+peripherals,some college,1,9,103852,437611
+computer hardware,some college,0,13,106006,410060
+peripherals,associate's degree,1,9,100714,393756
+peripherals,some college,1,11,108472,482723
+computer hardware,associate's degree,0,7,94645,310509
+peripherals,some college,1,5,77206,300765
+computer hardware,associate's degree,0,1,58334,83696
+peripherals,associate's degree,0,12,104463,403433
+office supplies,associate's degree,1,11,115976,481948
+peripherals,bachelor's degree,1,12,117103,491028
+office supplies,associate's degree,1,2,71617,212856
+peripherals,associate's degree,0,11,108063,415546
+office supplies,some college,0,8,92679,319120
+printers,associate's degree,1,4,75144,275186
+computer hardware,high school,2,8,99664,435215
+computer hardware,some college,0,3,69446,169909
+computer software,associate's degree,1,4,93955,258267
+computer hardware,some college,2,7,94325,413249
+peripherals,associate's degree,1,5,90844,351957
+peripherals,bachelor's degree,2,5,97987,354426
+computer software,some college,0,5,81869,228693
+peripherals,bachelor's degree,2,8,106570,400118
+printers,associate's degree,1,9,99239,392797
+printers,some college,1,1,55703,161598
+printers,some college,1,2,56121,181209
+computer hardware,associate's degree,3,6,105372,404031
+office supplies,some college,1,7,97892,401581
+office supplies,some college,1,7,94102,311021
+peripherals,some college,0,9,91750,318865
+peripherals,some college,1,8,92523,361365
+peripherals,high school,1,12,112893,504958
+peripherals,associate's degree,1,4,77135,252819
+office supplies,high school,3,3,81030,367821
+peripherals,high school,1,0,44299,122986
+printers,high school,2,1,63608,231263
+printers,some college,3,9,106321,543205
+printers,associate's degree,2,9,118120,533569
+printers,high school,0,5,66066,260664
+printers,some college,1,4,77209,281927
+computer hardware,high school,2,9,104991,492919
+computer hardware,some college,0,0,53805,75187
+computer software,associate's degree,0,5,91989,209643
+peripherals,some college,1,9,99255,423112
+computer software,associate's degree,1,6,98676,331006
+printers,associate's degree,0,4,65812,197220
+printers,bachelor's degree,3,8,120475,533734
+computer hardware,some college,1,0,64445,153423
+office supplies,associate's degree,0,10,102852,401035
+computer software,high school,2,10,127867,516794
+peripherals,associate's degree,0,8,82022,260223
+computer hardware,associate's degree,3,11,123388,561975
+computer software,associate's degree,1,9,112850,418496
+peripherals,associate's degree,1,10,106730,445898
+computer hardware,associate's degree,1,4,80795,242859
+computer hardware,some college,0,7,91921,305442
+peripherals,some college,1,4,74503,231354
+peripherals,some college,1,7,84411,344107
+computer software,associate's degree,2,2,80072,230720
+peripherals,bachelor's degree,0,6,83144,225574
+computer hardware,some college,1,6,96577,344414
+peripherals,associate's degree,1,8,94150,362276
+office supplies,associate's degree,2,3,74801,256576
+printers,some college,0,8,93519,297885
+office supplies,some college,2,10,108786,499633
+peripherals,high school,0,6,79413,220330
+computer hardware,associate's degree,0,4,71352,203518
+office supplies,associate's degree,1,2,58632,160360
+office supplies,some college,2,5,90811,378711
+office supplies,bachelor's degree,0,0,50258,37354
+printers,associate's degree,3,8,111195,451519
+computer hardware,associate's degree,2,6,101956,373328
+peripherals,some college,2,1,60291,199648
+computer hardware,bachelor's degree,1,10,113025,388570
+computer hardware,some college,0,2,61526,155449
+computer software,some college,3,4,93012,360118
+computer hardware,associate's degree,0,10,96851,338511
+printers,high school,3,7,87895,438947
+peripherals,some college,0,8,91557,345159
+printers,high school,3,4,76774,351370
+computer hardware,associate's degree,1,8,103705,397233
+computer hardware,associate's degree,1,5,79898,268976
+printers,some college,1,10,101240,471461
+printers,some college,2,4,83091,322417
+printers,bachelor's degree,3,6,101740,477403
+peripherals,some college,0,1,51786,112348
+office supplies,associate's degree,2,6,95517,397676
+printers,some college,1,6,80617,302906
+computer software,associate's degree,3,11,148060,639466
+computer hardware,some college,2,4,85027,319042
+office supplies,some college,1,8,98617,336174
+computer software,some college,1,14,144917,578733
+computer hardware,bachelor's degree,1,6,103149,350774
+computer hardware,associate's degree,1,8,94954,359540
+office supplies,associate's degree,1,3,73810,184455
+computer software,associate's degree,0,8,104710,311371
+office supplies,associate's degree,2,3,74221,302213
+office supplies,some college,0,5,71789,186654
+computer hardware,high school,0,8,93440,317928
+office supplies,some college,3,7,97740,497399
+peripherals,associate's degree,1,7,88998,349981
+printers,associate's degree,2,6,88237,349277
+office supplies,associate's degree,2,2,66901,249011
+computer hardware,associate's degree,2,7,97022,400217
+office supplies,associate's degree,1,6,95399,303987
+printers,bachelor's degree,2,7,94406,361598
+office supplies,associate's degree,2,8,92345,383449
+computer software,associate's degree,3,6,107140,421397
+office supplies,associate's degree,1,8,99415,414382
+printers,bachelor's degree,3,16,152529,785291
+peripherals,bachelor's degree,0,10,103882,338915
+peripherals,some college,2,6,87398,393975
+printers,bachelor's degree,2,9,118265,478051
+peripherals,some college,0,9,91239,359357
+peripherals,high school,1,9,101558,462400
+office supplies,some college,2,10,118914,568748
+computer software,some college,1,6,101041,340831
+computer hardware,associate's degree,2,12,125389,530382
+printers,high school,1,1,55141,175476
+office supplies,associate's degree,0,7,86087,271519
+printers,some college,0,12,99124,411244
+office supplies,associate's degree,0,6,85563,265168
+printers,associate's degree,1,1,57512,147639
+computer software,some college,0,7,101055,310436
+peripherals,some college,1,1,60466,167005
+printers,associate's degree,1,2,65335,197879
+printers,some college,0,9,90312,338462
+computer hardware,associate's degree,2,9,113998,441040
+peripherals,some college,2,1,60407,224068
+office supplies,some college,3,5,92007,413849
+printers,some college,1,6,80873,332447
+office supplies,some college,1,3,59013,190126
+office supplies,associate's degree,0,3,53441,94412
+printers,associate's degree,0,9,97996,386929
+office supplies,master's degree,2,7,105012,427471
+office supplies,associate's degree,1,7,89988,305072
+peripherals,some college,3,7,101827,465106
+office supplies,some college,1,4,78462,236711
+printers,some college,1,7,81956,332751
+computer hardware,associate's degree,2,8,107934,451760
+peripherals,associate's degree,2,10,111347,502665
+office supplies,some college,0,6,77992,222880
+computer hardware,bachelor's degree,2,5,107794,357942
+printers,some college,1,7,81649,336491
+peripherals,some college,1,3,73749,250178
+computer hardware,associate's degree,2,5,96486,334426
+printers,high school,1,9,95347,413155
+computer software,associate's degree,0,9,108086,315211
+printers,associate's degree,2,7,94267,402023
+peripherals,some college,0,5,68322,216940
+office supplies,high school,0,10,93747,392783
+office supplies,associate's degree,3,2,74260,311767
+computer hardware,some college,2,4,84888,337149
+printers,associate's degree,3,7,100287,424480
+office supplies,high school,2,0,51904,156164
+peripherals,some college,1,3,66500,206443
+peripherals,associate's degree,1,3,75101,270876
+office supplies,associate's degree,0,5,71834,238336
+office supplies,some college,2,6,83012,370118
+computer hardware,some college,0,4,80604,234417
+office supplies,some college,2,7,97613,450605
+printers,associate's degree,3,6,99412,458429
+peripherals,some college,2,2,77618,296277
+computer hardware,some college,1,7,95606,352406
+computer hardware,associate's degree,3,16,151685,718018
+peripherals,associate's degree,3,7,114389,460276
+peripherals,associate's degree,0,7,90237,278047
+peripherals,some college,1,4,62692,186922
+peripherals,some college,0,6,78791,266930
+printers,high school,2,3,67786,268820
+printers,high school,0,9,96079,330790
+office supplies,high school,2,5,93505,392287
+peripherals,some college,2,5,84504,360899
+office supplies,high school,2,3,65237,292373
+printers,associate's degree,1,0,62542,159549
+office supplies,high school,1,10,96576,394241
+computer hardware,associate's degree,2,6,97367,385745
+office supplies,associate's degree,1,5,84620,355012
+computer hardware,some college,2,9,100789,403914
+printers,bachelor's degree,3,10,125295,603303
+printers,associate's degree,0,8,97811,288105
+printers,associate's degree,2,5,83593,344266
+office supplies,associate's degree,3,7,102544,505440
+computer hardware,some college,0,3,69194,149436
+office supplies,some college,1,4,77636,295271
+peripherals,some college,0,1,48822,108221
+printers,associate's degree,1,4,84162,291874
+printers,associate's degree,2,4,82804,318549
+peripherals,some college,0,2,63135,149067
+peripherals,master's degree,2,1,79273,269192
+printers,some college,2,7,89416,405362
+printers,some college,2,5,83201,324297
+peripherals,associate's degree,0,6,83415,274339
+office supplies,associate's degree,2,7,102497,427377
+office supplies,bachelor's degree,0,8,86148,271763
+printers,some college,2,8,97581,447362
+printers,some college,2,5,85754,353345
+computer software,associate's degree,2,5,111752,363525
+peripherals,high school,3,10,109776,570193
+peripherals,high school,2,5,88247,353639
+peripherals,some college,2,2,78051,281687
+printers,some college,3,9,102308,503078
+computer software,some college,2,10,120729,496553
+computer hardware,associate's degree,1,3,81522,218079
+printers,some college,1,6,93969,350635
+peripherals,high school,0,6,73450,245229
+computer hardware,high school,0,7,81513,276478
+printers,high school,3,8,96724,490295
+printers,some college,2,1,61761,171401
+peripherals,bachelor's degree,2,5,97179,327109
+printers,associate's degree,2,9,103094,466988
+peripherals,some college,1,10,99836,438363
+office supplies,bachelor's degree,0,5,71685,154173
+printers,associate's degree,0,3,57927,139129
+computer hardware,high school,1,6,88026,326506
+printers,associate's degree,0,9,103153,335230
+office supplies,some college,0,7,76422,241468
+peripherals,associate's degree,1,7,98498,350945
+peripherals,some college,1,2,71779,228301
+printers,associate's degree,1,1,65316,185288
+peripherals,associate's degree,3,10,116505,565047
+peripherals,associate's degree,1,4,83090,212556
+printers,bachelor's degree,2,5,96510,355996
+office supplies,bachelor's degree,0,6,78104,237659
+office supplies,some college,2,5,83240,341274
+printers,associate's degree,1,7,96157,358128
+peripherals,some college,1,5,77996,265583
+printers,bachelor's degree,3,9,110325,503253
+printers,associate's degree,2,6,92660,426598
+printers,associate's degree,3,4,91977,415167
+peripherals,bachelor's degree,3,8,107719,477189
+peripherals,associate's degree,2,7,90897,368970
+computer software,associate's degree,2,12,133726,511687
+office supplies,associate's degree,2,12,120794,566549
+computer hardware,some college,3,6,89871,388706
+printers,some college,0,1,54046,95145
+office supplies,bachelor's degree,0,5,92875,258748
+printers,bachelor's degree,2,4,80095,300945
+office supplies,some college,2,8,92161,403402
+peripherals,some college,0,8,94486,359375
+office supplies,bachelor's degree,1,6,97857,336018
+computer hardware,associate's degree,1,5,88483,317463
+office supplies,some college,2,11,106302,502484
+peripherals,associate's degree,1,5,89288,300009
+office supplies,some college,1,4,80853,238532
+computer hardware,high school,2,8,96708,402142
+office supplies,associate's degree,1,5,78210,268198
+office supplies,associate's degree,1,9,108755,423278
+printers,high school,2,5,75729,354113
+peripherals,some college,1,0,67262,223221
+peripherals,high school,1,8,90164,364201
+computer hardware,bachelor's degree,1,3,85687,204154
+computer hardware,associate's degree,1,5,86923,288041
+computer software,some college,0,7,95274,322737
+office supplies,high school,2,7,98592,439054
+peripherals,some college,0,5,77533,238063
+office supplies,associate's degree,3,9,122275,565430
+computer hardware,some college,1,2,66470,204728
+peripherals,associate's degree,1,10,109916,438903
+printers,some college,1,8,97767,400585
+printers,some college,1,8,91935,405921
+peripherals,some college,2,6,95858,382424
+printers,some college,1,4,78235,238017
+computer hardware,associate's degree,2,5,90130,338200
+office supplies,associate's degree,3,7,103442,489121
+peripherals,some college,2,6,92407,407523
+peripherals,bachelor's degree,0,8,95851,334742
+peripherals,some college,1,5,81408,284573
+peripherals,some college,3,10,115821,548868
+printers,some college,0,11,98457,360437
+printers,some college,2,6,87650,389709
+peripherals,associate's degree,1,8,94440,359066
+printers,some college,0,10,93306,387055
+printers,some college,2,2,59591,215909
+printers,some college,0,9,96264,354041
+computer hardware,some college,2,6,95448,372639
+office supplies,some college,0,7,84983,309167
+peripherals,associate's degree,2,3,83309,285547
+printers,high school,2,5,70164,301643
+computer hardware,some college,0,12,107136,430982
+printers,some college,2,13,124061,582880
+printers,some college,0,6,69210,214012
+computer hardware,some college,0,5,74500,191231
+office supplies,high school,2,2,63844,265289
+computer hardware,some college,2,5,91141,386879
+peripherals,associate's degree,0,8,100748,337438
+office supplies,high school,1,4,67437,274925
+computer software,some college,2,8,109589,445888
+peripherals,bachelor's degree,2,5,95034,358592
+office supplies,some college,2,4,71429,284545
+printers,some college,3,8,103029,468823
+peripherals,some college,2,5,91876,379061
+peripherals,some college,1,10,99867,438665
+peripherals,bachelor's degree,2,4,93749,338684
+computer hardware,some college,1,10,111783,479687
+printers,some college,2,4,77823,334772
+office supplies,associate's degree,1,8,99209,379983
+office supplies,bachelor's degree,1,2,68619,209203
+computer hardware,associate's degree,2,8,107163,427805
+peripherals,some college,1,5,75019,246775
+office supplies,bachelor's degree,0,2,58979,84554
+printers,some college,1,6,86294,318220
+peripherals,some college,0,6,78033,271351
+peripherals,bachelor's degree,1,4,86066,267150
+office supplies,some college,2,10,99739,457394
+office supplies,bachelor's degree,2,8,111958,467014
+peripherals,master's degree,2,0,67421,180327
+peripherals,some college,1,5,71819,241625
+printers,associate's degree,3,4,81657,331178
+computer hardware,associate's degree,1,5,91310,290709
+computer hardware,bachelor's degree,1,3,81244,260160
+peripherals,associate's degree,3,14,136747,687471
+computer software,associate's degree,0,11,116520,397141
+printers,associate's degree,0,10,108488,411500
+office supplies,some college,0,6,83953,301148
+office supplies,some college,0,8,95106,301059
+computer hardware,high school,0,2,54888,148197
+office supplies,associate's degree,2,6,85957,337620
+computer software,some college,0,8,102014,315498
+peripherals,bachelor's degree,1,8,103644,385191
+peripherals,some college,1,5,77406,299146
+computer hardware,bachelor's degree,0,2,69859,179045
+peripherals,some college,0,8,88065,267339
+peripherals,associate's degree,3,6,103362,500838
+office supplies,some college,2,0,63614,215784
+computer hardware,some college,3,5,89784,385403
+computer hardware,some college,0,5,77004,230131
+computer software,some college,2,4,97854,324929
+computer hardware,associate's degree,1,7,98117,338052
+printers,associate's degree,2,7,88616,330000
+printers,some college,2,6,88239,366467
+printers,some college,1,7,90820,366361
+office supplies,some college,0,7,77979,249012
+printers,associate's degree,1,9,105117,419246
+printers,some college,3,9,106882,504794
+computer hardware,associate's degree,1,8,105453,382127
+computer hardware,associate's degree,1,9,102911,381119
+printers,associate's degree,1,2,62803,208025
+office supplies,some college,0,3,60378,163073
+office supplies,associate's degree,1,2,73021,216339
+printers,bachelor's degree,0,11,112116,417013
+office supplies,some college,2,5,81374,324684
+office supplies,associate's degree,2,10,114853,514304
+printers,some college,1,7,82942,321557
+computer hardware,bachelor's degree,0,9,105969,348285
+printers,associate's degree,3,6,100393,471097
+peripherals,associate's degree,0,8,84807,288069
+peripherals,high school,1,7,82941,369406
+peripherals,some college,1,7,83946,339462
+printers,associate's degree,0,10,89727,317272
+office supplies,some college,3,11,118339,560471
+office supplies,some college,0,2,57449,141909
+office supplies,associate's degree,2,2,81294,242935
+printers,some college,3,6,92396,438886
+office supplies,some college,1,5,79781,317893
+printers,some college,1,9,92888,400854
+printers,some college,0,4,56719,147186
+peripherals,high school,1,1,55121,152979
+peripherals,associate's degree,1,7,99605,389513
+office supplies,associate's degree,3,11,119468,594682
+printers,bachelor's degree,3,6,109519,473500
+computer software,high school,2,1,87125,251248
+printers,associate's degree,3,6,104280,518812
+office supplies,some college,3,5,86593,395355
+office supplies,bachelor's degree,2,11,137244,582436
+computer hardware,associate's degree,1,10,115708,527076
+computer hardware,high school,0,12,106537,387481
+computer hardware,associate's degree,2,10,125552,544441
+peripherals,some college,1,8,94545,328144
+printers,associate's degree,2,6,91678,416779
+computer software,associate's degree,0,4,80183,161018
+printers,associate's degree,0,5,78279,225217
+computer software,associate's degree,1,10,124397,468124
+printers,associate's degree,2,5,94898,408919
+computer software,associate's degree,2,3,98491,368649
+office supplies,some college,2,3,77633,323125
+peripherals,associate's degree,2,0,59746,180146
+peripherals,some college,0,8,100146,360164
+office supplies,associate's degree,0,5,69563,215629
+computer hardware,associate's degree,2,10,119929,516037
+office supplies,some college,2,7,98592,365343
+peripherals,associate's degree,2,2,83047,290722
+computer hardware,bachelor's degree,1,7,91223,302225
+computer hardware,associate's degree,2,5,92911,328699
+peripherals,associate's degree,1,11,124183,505648
+computer hardware,some college,1,0,52299,113632
+computer hardware,some college,1,9,103000,409026
+peripherals,some college,3,8,112977,550281
+peripherals,associate's degree,0,2,54912,90048
+peripherals,associate's degree,1,7,89283,341384
+printers,some college,0,8,91230,333575
+printers,associate's degree,2,7,102639,438810
+printers,some college,1,6,85688,353658
+printers,bachelor's degree,0,4,74878,232803
+printers,some college,0,5,69652,241625
+office supplies,associate's degree,1,9,104801,485904
+peripherals,high school,3,6,98319,456956
+office supplies,some college,1,8,104975,399750
+peripherals,some college,2,5,81139,321729
+computer hardware,associate's degree,0,8,91236,322060
+office supplies,associate's degree,2,5,86200,362081
+computer hardware,some college,0,10,106581,435950
+computer hardware,associate's degree,1,7,90676,336321
+computer hardware,some college,1,0,50849,118491
+office supplies,some college,1,6,81597,351539
+printers,high school,0,7,89447,378574
+printers,some college,0,5,81513,283665
+office supplies,associate's degree,0,9,100975,344429
+computer software,bachelor's degree,1,6,103745,347445
+computer hardware,associate's degree,0,7,101997,328760
+peripherals,associate's degree,3,6,101817,457585
+office supplies,associate's degree,1,2,62977,209770
+printers,associate's degree,1,8,106500,406186
+computer software,bachelor's degree,1,5,100085,265946
+printers,high school,2,11,110298,581209
+peripherals,associate's degree,0,11,105399,430343
+printers,high school,2,6,80108,357526
+peripherals,some college,2,0,58115,171687
+computer hardware,associate's degree,1,9,102385,393955
+peripherals,some college,2,6,90774,427735
+computer hardware,associate's degree,1,6,87342,309231
+printers,bachelor's degree,0,7,102819,318185
+peripherals,associate's degree,1,1,61684,196841
+printers,some college,1,7,82271,342711
+office supplies,some college,0,5,74708,260915
+office supplies,bachelor's degree,0,5,74343,223432
+peripherals,some college,0,10,99420,370270
+printers,associate's degree,2,5,89664,341862
+computer software,some college,1,5,88689,296888
+computer hardware,associate's degree,2,10,117948,549484
+office supplies,some college,1,6,86512,336323
+printers,master's degree,3,7,104051,440509
+computer software,some college,2,4,89052,296937
+office supplies,associate's degree,1,10,101025,430249
+computer hardware,some college,2,4,85259,305348
+office supplies,some college,3,5,83930,387257
+printers,associate's degree,2,5,86726,362012
+office supplies,some college,1,4,74520,268632
+office supplies,associate's degree,1,5,88643,274455
+computer software,associate's degree,1,7,113396,394035
+peripherals,some college,2,5,84548,359782
+printers,some college,2,12,109135,511353
+printers,some college,1,5,70226,246915
+peripherals,associate's degree,1,0,61893,121897
+office supplies,some college,3,7,105538,448700
+computer hardware,some college,2,8,103809,438246
+computer hardware,associate's degree,0,5,69351,150000
+printers,associate's degree,1,6,94048,385291
+peripherals,some college,2,2,79288,302833
+peripherals,bachelor's degree,1,0,63440,95756
+peripherals,associate's degree,0,8,101916,346566
+office supplies,some college,1,9,91292,392919
+computer hardware,some college,3,5,91187,388838
+printers,bachelor's degree,1,6,89041,350410
+printers,some college,1,10,93950,399499
+computer software,some college,1,6,101214,305430
+computer hardware,associate's degree,1,7,97392,323270
+peripherals,some college,0,7,79027,290268
+office supplies,some college,2,11,111415,505153
+computer hardware,associate's degree,2,9,111306,503055
+computer hardware,some college,1,3,75297,209370
+printers,high school,3,7,104733,474965
+peripherals,high school,2,4,80095,293442
+peripherals,associate's degree,0,3,63739,177391
+office supplies,high school,1,2,54679,206790
+office supplies,some college,1,4,68004,242458
+computer hardware,bachelor's degree,1,5,99415,308389
+printers,associate's degree,2,8,101697,476974
+office supplies,some college,0,4,60825,137312
+peripherals,some college,0,9,94759,382817
+office supplies,some college,1,10,99814,426225
+printers,some college,1,6,84786,357735
+computer software,associate's degree,2,8,117251,423187
+peripherals,some college,0,8,85293,268649
+computer software,some college,2,5,100211,355725
+peripherals,some college,0,7,83814,300483
+office supplies,some college,3,6,87431,405346
+office supplies,some college,0,6,78637,302102
+computer hardware,associate's degree,1,3,82768,244830
+computer hardware,some college,1,9,95487,363808
+printers,some college,1,7,96767,337671
+printers,some college,1,3,66893,210769
+computer hardware,associate's degree,1,1,64232,180508
+printers,high school,2,6,81958,358341
+printers,some college,2,7,90796,421534
+printers,some college,0,1,53872,155030
+office supplies,associate's degree,1,5,84294,290705
+computer hardware,associate's degree,0,6,89431,262134
+office supplies,high school,1,11,106963,471446
+printers,associate's degree,0,8,88380,315372
+printers,bachelor's degree,2,9,122192,508788
+computer software,associate's degree,1,10,130342,468063
+peripherals,associate's degree,2,3,79325,333252
+printers,associate's degree,1,2,66363,163517
+computer software,some college,3,4,98900,331390
+office supplies,associate's degree,1,4,81559,298299
+peripherals,associate's degree,1,9,108812,435622
+computer hardware,some college,1,5,84763,345489
+computer hardware,associate's degree,1,10,112074,455343
+office supplies,some college,0,5,78028,251201
+peripherals,high school,0,5,73500,259281
+office supplies,associate's degree,1,4,80178,268473
+printers,bachelor's degree,3,9,112361,489412
+office supplies,some college,1,6,85546,356103
+printers,associate's degree,1,4,74974,289738
+office supplies,some college,3,7,98691,432251
+peripherals,associate's degree,1,6,98482,344341
+peripherals,some college,0,3,80607,262868
+printers,some college,1,2,61912,128801
+computer hardware,associate's degree,1,8,104078,338912
+peripherals,associate's degree,1,2,75431,212572
+office supplies,high school,3,7,96193,458865
+printers,some college,1,10,101524,431039
+office supplies,associate's degree,2,3,71988,275233
+office supplies,associate's degree,2,8,108413,450128
+computer hardware,some college,1,2,72368,193972
+printers,some college,0,2,54359,96088
+peripherals,associate's degree,3,6,100190,456820
+peripherals,high school,2,7,99410,389710
+computer software,associate's degree,2,6,106520,376588
+peripherals,some college,3,3,87842,369261
+office supplies,some college,1,7,91999,335346
+computer software,some college,0,3,88482,245486
+computer hardware,associate's degree,1,5,86150,299452
+printers,high school,1,6,80722,290634
+printers,associate's degree,1,10,107590,441906
+office supplies,associate's degree,1,6,91718,339586
+computer software,associate's degree,1,7,108717,365299
+printers,associate's degree,1,4,71418,231342
+peripherals,some college,1,0,51985,110293
+office supplies,associate's degree,1,4,79577,252568
+printers,high school,0,8,79709,287131
+peripherals,associate's degree,2,0,62580,176276
+peripherals,bachelor's degree,1,4,90524,307330
+printers,associate's degree,1,7,94614,327388
+office supplies,some college,1,11,112332,474691
+printers,associate's degree,0,12,115000,422089
+printers,some college,1,9,91206,389580
+peripherals,associate's degree,0,11,106787,374255
+office supplies,associate's degree,1,5,79115,244553
+peripherals,some college,1,7,91214,351658
+office supplies,some college,0,4,63223,205359
+peripherals,associate's degree,1,8,101032,340087
+printers,some college,0,9,86345,299234
+office supplies,bachelor's degree,2,9,116475,459202
+peripherals,some college,0,5,78713,198576
+peripherals,associate's degree,0,1,60904,84411
+peripherals,high school,2,4,84804,401318
+computer hardware,some college,2,3,69850,242350
+office supplies,some college,1,8,92826,394524
+printers,some college,2,8,98310,459590
+peripherals,associate's degree,1,9,108203,444026
+peripherals,associate's degree,0,1,62834,122828
+peripherals,associate's degree,2,1,62742,207415
+peripherals,high school,1,6,78399,343990
+printers,some college,3,3,83681,344380
+printers,some college,1,0,50456,145363
+peripherals,some college,1,2,63202,138651
+computer software,associate's degree,1,7,104637,349102
+office supplies,associate's degree,3,0,59908,219083
+printers,high school,0,7,79947,285754
+printers,high school,3,5,96519,431789
+computer hardware,associate's degree,1,10,112648,416904
+computer software,some college,1,6,102713,335569
+computer software,associate's degree,0,4,80341,168766
+computer hardware,some college,0,9,92185,351854
+office supplies,associate's degree,3,3,80055,348781
+office supplies,associate's degree,3,11,130240,579704
+computer software,associate's degree,1,8,125396,448874
+peripherals,associate's degree,1,3,77156,228151
+printers,some college,1,4,74727,290880
+peripherals,some college,3,5,93507,415682
+computer hardware,some college,3,8,105728,507276
+office supplies,associate's degree,0,2,64385,152098
+peripherals,bachelor's degree,2,3,79435,294349
+computer software,associate's degree,2,7,121535,406748
+printers,some college,1,5,83400,280388
+computer hardware,some college,1,2,62069,190692
+office supplies,associate's degree,0,6,89844,275093
+peripherals,associate's degree,1,8,91422,311487
+printers,high school,2,6,81340,369548
+peripherals,associate's degree,0,1,56474,144741
+office supplies,associate's degree,2,9,107169,447797
+printers,bachelor's degree,0,2,65249,189153
+office supplies,associate's degree,0,9,96441,368610
+peripherals,some college,0,9,90962,369618
+peripherals,associate's degree,1,7,89724,311786
+office supplies,some college,2,0,67702,233911
+office supplies,bachelor's degree,1,5,84018,288097
+peripherals,bachelor's degree,1,9,115579,460020
+office supplies,associate's degree,2,3,78520,296410
+office supplies,some college,1,8,95914,380890
+computer hardware,associate's degree,1,11,119617,478738
+computer software,bachelor's degree,0,4,87047,210140
+office supplies,associate's degree,2,7,96158,433541
+printers,some college,0,0,52809,94998
+peripherals,high school,1,8,88841,408413
+printers,some college,1,5,73458,257751
+peripherals,associate's degree,2,2,73776,272845
+printers,associate's degree,1,7,97679,357037
+office supplies,associate's degree,0,4,69517,235170
+computer software,associate's degree,2,1,85371,160532
+printers,associate's degree,0,3,61941,113522
+computer hardware,high school,1,5,77907,329074
+office supplies,some college,2,6,87592,358014
+peripherals,some college,1,9,109320,440044
+peripherals,some college,1,8,90497,379414
+peripherals,associate's degree,0,7,83625,296245
+computer hardware,some college,1,9,104168,425872
+printers,associate's degree,1,6,88540,325886
+printers,associate's degree,0,8,90444,364435
+peripherals,some college,1,6,93251,341161
+office supplies,some college,0,4,75038,237582
+peripherals,associate's degree,1,9,101531,416079
+office supplies,bachelor's degree,1,8,94266,353560
+peripherals,associate's degree,1,1,61051,190506
+computer hardware,some college,0,3,69019,152561
+printers,associate's degree,2,6,92712,405647
+computer hardware,associate's degree,3,8,118167,524410
+office supplies,associate's degree,0,9,98081,342830
+printers,some college,2,0,56037,220368
+printers,associate's degree,0,2,54667,126668
+peripherals,associate's degree,1,12,116845,480653
+office supplies,associate's degree,1,6,87483,292306
+printers,high school,3,0,66735,306628
+peripherals,high school,0,10,95361,377080
+office supplies,high school,1,6,82417,316030
+office supplies,bachelor's degree,3,3,86763,387625
+peripherals,associate's degree,3,5,103279,506434
+printers,associate's degree,1,9,97499,414993
+computer software,some college,2,5,98817,335478
+printers,associate's degree,2,8,99015,450150
+office supplies,high school,2,7,91531,411929
